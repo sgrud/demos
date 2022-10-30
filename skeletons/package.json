@@ -1,0 +1,25 @@
+{
+  "name": "sgrud-example-static",
+  "private": true,
+  "scripts": {
+    "postinstall": "sgrud runtimify",
+    "start": "sgrud universal"
+  },
+  "dependencies": {
+    "@sgrud/bin": "latest",
+    "@sgrud/core": "latest",
+    "es-module-shims": "1.6.2",
+    "sgrud-skeleton-angular": "https://gitpkg.now.sh/sgrud/sgrud.github.io/skeletons/angular?main",
+    "sgrud-skeleton-fast": "https://gitpkg.now.sh/sgrud/sgrud.github.io/skeletons/fast?main",
+    "sgrud-skeleton-lit": "https://gitpkg.now.sh/sgrud/sgrud.github.io/skeletons/lit?main",
+    "sgrud-skeleton-preact": "https://gitpkg.now.sh/sgrud/sgrud.github.io/skeletons/preact?main",
+    "sgrud-skeleton-sgrud": "https://gitpkg.now.sh/sgrud/sgrud.github.io/skeletons/sgrud?main"
+  },
+  "sgrudDependencies": {
+    "sgrud-skeleton-angular": "latest",
+    "sgrud-skeleton-fast": "latest",
+    "sgrud-skeleton-lit": "latest",
+    "sgrud-skeleton-preact": "latest",
+    "sgrud-skeleton-sgrud": "latest"
+  }
+}
