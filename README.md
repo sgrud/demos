@@ -1,8 +1,8 @@
 # SGRUD
-> SGRUD is Growing Rapidly Until Distinction
+> SGRUD is Growing Rapidly Until Distinction.
 
-## @sgrud/demos
-> `@sgrud/demos` - Some [SGRUD](https://sgrud.github.io) demonstrations.
+## SGRUD Demonstrations
+> Some [SGRUD](https://sgrud.github.io) Demonstrations.
 
-### @sgrud/demos/skeletons
-- [view repository](https://github.com/sgrud/demos/tree/main/skeletons)
+### References
+- [Repository](https://github.com/sgrud/demos)

@@ -1,5 +1,5 @@
 {
-  "name": "sgrud-example-static",
+  "name": "sgrud-demo-universal",
   "private": true,
   "scripts": {
     "postinstall": "sgrud runtimify",
