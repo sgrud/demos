@@ -8,7 +8,7 @@
   "dependencies": {
     "@sgrud/bin": "latest",
     "@sgrud/core": "latest",
-    "es-module-shims": "1.6.2",
+    "es-module-shims": "latest",
     "sgrud-skeleton-angular": "https://gitpkg.now.sh/sgrud/sgrud.github.io/skeletons/angular?main",
     "sgrud-skeleton-fast": "https://gitpkg.now.sh/sgrud/sgrud.github.io/skeletons/fast?main",
     "sgrud-skeleton-lit": "https://gitpkg.now.sh/sgrud/sgrud.github.io/skeletons/lit?main",
