@@ -1,7 +1,7 @@
 # SGRUD
 > SGRUD is Growing Rapidly Until Distinction.
 
-## sgrud-demos-universal
+## sgrud-demo-universal
 > Demonstration of [SGRUD](https://sgrud.github.io)s Universality.
 
 ### References
