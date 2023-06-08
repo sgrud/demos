@@ -45,7 +45,7 @@
 
 <script type="module-shim">
   import { Kernel } from '@sgrud/core';
-  new Kernel(undefined, '/package.json#');
+  new Kernel().require('.').subscribe();
 </script>
 
 <!-- UMD -->
@@ -58,5 +58,5 @@
 <script nomodule src="/node_modules/@sgrud/core/index.umd.js"></script>
 
 <script nomodule>
-  new sgrud.core.Kernel(undefined, '/package.json#');
+  new sgrud.core.Kernel().require('.').subscribe();
 </script>
